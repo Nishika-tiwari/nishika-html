@@ -1,0 +1,54 @@
+h1{
+		font-size: 60px;
+		color: darkred;
+	}
+	p{
+		font-family:courier;
+		font-size: 50px;
+	}
+	hr{
+		width: 80%;
+		background-color:black;
+		height: 4px;
+	}
+	button{
+		background-color: green;
+		color: white;
+		cursor: pointer;
+		border-width: 10px;
+	}
+	a{
+		text-decoration: none;
+		color: white;
+	}
+	button:hover{
+		background-color: black;
+
+	}
+	img{
+		width: 400px;
+		height: 300px;
+  margin-top: 20px;
+  margin-right: 20px;}
+  table{
+		font-family:  sans-serif;
+		  border-collapse: collapse;
+		  width: 100%;
+		  border-width: 20px;
+		  margin-left: 30px;
+		  margin-top: 20px;
+	}
+	td,th{
+		border: 1px solid #ddd;
+  padding: 8px;
+	}
+	tr:hover{
+background-color:white;
+cursor: pointer;
+	}
+	th{
+		background-color:grey;
+		color:white;
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
